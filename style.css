@@ -10,6 +10,10 @@ background: #0b3d91;
 color: white;
 padding: 80px 20px;
 }
+ul {
+list-style: none;
+padding: 0;
+}
 
 section {
 padding: 40px;
